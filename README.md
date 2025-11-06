@@ -51,7 +51,8 @@
 ### 🏅 Certificates  
 
 Here are some of my recent certifications from Udemy: 
-[![Certificate]]([https://wwURL_HEREw.udemy.com/certificate/](https://www.udemy.com/certificate/UC-e796eeb9-6efa-41f5-af1c-3065a886cb9b/)
+
+[!Certificate]![UC-4b0319d1-c366-40c0-88f0-c473097b792b](https://github.com/user-attachments/assets/64fe65e1-2a4e-40cc-bfb7-6e01cc33e6b4)
 
 
 ---
