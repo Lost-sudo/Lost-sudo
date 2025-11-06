@@ -52,7 +52,10 @@
 
 Here are some of my recent certifications from Udemy: 
 
-[!Certificate]![UC-4b0319d1-c366-40c0-88f0-c473097b792b](https://github.com/user-attachments/assets/64fe65e1-2a4e-40cc-bfb7-6e01cc33e6b4)
+![UC-4b0319d1-c366-40c0-88f0-c473097b792b](https://github.com/user-attachments/assets/64fe65e1-2a4e-40cc-bfb7-6e01cc33e6b4)
+
+
+![UC-e796eeb9-6efa-41f5-af1c-3065a886cb9b](https://github.com/user-attachments/assets/b4006808-63d3-4a30-87b0-dd1a2c6e9cd3)
 
 
 ---
