@@ -55,6 +55,7 @@ Here are some of my recent certifications from Udemy:
 <p align="center">
   <img src="https://github.com/user-attachments/assets/64fe65e1-2a4e-40cc-bfb7-6e01cc33e6b4" alt="Certificate 1" width="400"/>
   <img src="https://github.com/user-attachments/assets/b4006808-63d3-4a30-87b0-dd1a2c6e9cd3" alt="Certificate 2" width="400"/>
+  <img src="https://github.com/user-attachments/assets/4ee96307-2862-4686-ab43-3a261fdecda7" alt="Certificate 3" width="400"/>
 </p>
 
 
