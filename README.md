@@ -10,7 +10,7 @@
 - 🧠 Constantly exploring new technologies and improving my skills  
 - 💬 Ask me about anything related to **JavaScript**, **APIs**, or **Linux**  
 - 💞️ Looking to collaborate on **open-source web projects** or **backend systems**  
-- 📫 Reach me at: **lostsudo.dev@gmail.com** *(or your preferred contact method)*  
+- 📫 Reach me at: **johnpatrickparaon.dev@gmail.com** *(or your preferred contact method)*  
 
 ---
 
