@@ -48,6 +48,14 @@
 
 ---
 
+### 🏅 Certificates  
+
+Here are some of my recent certifications from Udemy: 
+[![Certificate]]([https://wwURL_HEREw.udemy.com/certificate/](https://www.udemy.com/certificate/UC-e796eeb9-6efa-41f5-af1c-3065a886cb9b/)
+
+
+---
+
 ### 📈 GitHub Stats  
 
 ![Lost-sudo's GitHub stats](https://github-readme-stats.vercel.app/api?username=Lost-sudo&show_icons=true&theme=tokyonight)  
