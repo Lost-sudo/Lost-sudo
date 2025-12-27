@@ -77,7 +77,8 @@ Here are some of my recent certifications from Udemy:
 <div align="center">
   <img src="https://github-readme-stats-fast.vercel.app/api?username=Lost-sudo&show_icons=true&theme=tokyonight" />
   <img src="https://github-readme-stats-fast.vercel.app/api/top-langs?username=Lost-sudo&layout=compact&theme=tokyonight" />
-  ![GitHub Contributions](https://github.com/USERNAME.png?tab=overview&from=2020-01-01&to=2030-12-31)
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Lost-sudo&theme=tokyonight" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Lost-sudo&theme=tokyonight" />
 
 
   <a href="https://roadmap.sh">
