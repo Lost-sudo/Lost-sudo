@@ -75,8 +75,8 @@ Here are some of my recent certifications from Udemy:
 ### 📈 GitHub Stats  
 
 <div align="center">
-  <img src="https://github-readme-stats.zcy.dev/api?username=Lost-sudo&show_icons=true&theme=tokyonight" />
-  <img src="https://github-readme-stats.zcy.dev/api/top-langs/?username=Lost-sudo&layout=compact&theme=tokyonight" />
+  <img src="https://github-readme-stats-fast.vercel.app/api?username=Lost-sudo&show_icons=true&theme=tokyonight" />
+<img src="https://github-readme-stats-fast.vercel.app/api/top-langs?username=Lost-sudo&layout=compact&theme=tokyonight" />
   <a href="https://roadmap.sh">
     <img src="https://roadmap.sh/card/tall/690da5a8ce70eef65b438d11?variant=dark" />
   </a>
